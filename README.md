@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Shaun Joseph
 
-<!--
-**Shaun07a/Shaun07a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student passionate about software development, problem solving, and building practical applications.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Computer Science Undergraduate
+* Learning Full-Stack Development, Cloud Computing, and DevOps
+* Solving Data Structures & Algorithms problems regularly
+* Always exploring new technologies and improving my skills
+
+## Tech Stack
+
+**Languages:** C++, Python, Java, JavaScript, TypeScript
+
+**Frontend:** HTML, CSS, React
+
+**Backend:** Node.js
+
+**Databases:** MySQL, MongoDB
+
+**Tools & Technologies:** Git, GitHub, Docker, AWS
+
+## Current Focus
+
+* Full-Stack Development
+* Cloud & DevOps
+* Data Structures & Algorithms
+* Open Source
+
+## Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/shaun-joseph-526400280/
+
+
+Thanks for visiting my profile!
+
+
+
