@@ -1,195 +1,109 @@
 <!-- ========================= HEADER ========================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=250&section=header&text=Shaun%20Joseph&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=250&section=header&text=Shaun%20Joseph&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h1 align="center">
-Hello Everyone 👋
-</h1>
+<h1 align="center">Hi 👋, I'm Shaun Joseph</h1>
+
+<h3 align="center">Computer Science Student | Full Stack Developer | AI & Cloud Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Cloud+%26+DevOps+Learner;Always+Learning+Something+New"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Cloud+%26+DevOps+Learner;Always+Learning+Something+New"/>
 </p>
 
 ---
 
 # 🚀 About Me
 
-I'm a Computer Science student passionate about building scalable web applications and Artificial Intelligence solutions.
-
-- 🔭 Currently working on Full Stack & AI Projects
-- 🌱 Learning Cloud Computing & DevOps
-- 💻 Strong interest in Backend Development
-- 📚 Practicing Data Structures & Algorithms
-- 🤝 Looking to collaborate on Open Source Projects
-- ⚡ Fun Fact: I love solving coding problems.
+- 🎓 Computer Science Student
+- 💻 Passionate about Full Stack Development, Artificial Intelligence and Cloud Computing
+- 🌱 Currently learning **AWS, DevOps and Backend Development**
+- 📚 Practicing **Data Structures & Algorithms**
+- 🤝 Open to collaborating on Open Source Projects
+- ⚡ Always learning something new and building practical projects
 
 ---
 
 # 🛠 Tech Stack
 
-## Languages
+## 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,mysql"/>
 </p>
 
-## Frontend
+**Python • C++ • Java • JavaScript • HTML • CSS • SQL • PL/SQL**
+
+---
+
+## 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 </p>
 
-## Backend
+**MySQL • MongoDB**
+
+---
+
+## ⚙️ Frameworks & Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=flask,bootstrap"/>
 </p>
 
-## Databases
+**Flask • NumPy • Pandas • Scikit-learn • Matplotlib • Seaborn • Pygame • Bootstrap**
+
+---
+
+## 🛠 Developer Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
-## Cloud & DevOps
+**Git • GitHub • VS Code • Jupyter Notebook • Excel**
+
+---
+
+## 🐧 Operating Systems & Linux
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,git,github"/>
+<img src="https://skillicons.dev/icons?i=ubuntu,bash"/>
 </p>
 
-## Tools
+**Ubuntu • Bash • AWK • Sed • Grep • LVM • User & Permission Management**
+
+---
+
+## 🤖 AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,linux"/>
+<img src="https://skillicons.dev/icons?i=python"/>
 </p>
 
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-</p>
+**Machine Learning Pipelines • Data Preprocessing • Feature Engineering • Model Evaluation • Flask Deployment • Pickle • Joblib**
 
 ---
 
-# 📈 Most Used Languages
+# 📊 GitHub Stats
 
-<p align="center">
+![](https://github-readme-stats.shion.dev/api?username=Shaun07a&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+![](https://streak-stats.demolab.com/?user=Shaun07a&theme=dark&hide_border=false)
 
-</p>
-
----
-
-# 📉 Activity Graph
-
-[![Shaun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)](https://github.com/YOUR_GITHUB_USERNAME)
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&row=1&column=7"/>
-
-</p>
-
----
-
-# 📋 Profile Summary
-
-<p align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-### 🔹 RAG Chatbot
-AI-powered Retrieval Augmented Generation chatbot built using LangChain, FAISS, Flask and OpenAI.
-
-### 🔹 Task Management System
-Employee task management system using Flask, MySQL, HTML, CSS, Bootstrap.
-
-### 🔹 CIFAR-10 Image Classifier
-Deep Learning project achieving over 83% accuracy using TensorFlow.
-
-### 🔹 Chess Game
-Python Chess Game developed with Pygame including AI opponent.
-
----
-
-# 💻 Coding Profiles
-
-<p>
-
-<a href="https://leetcode.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://www.hackerrank.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="https://www.codechef.com/users/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef"/>
-</a>
-
-</p>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shaun07a&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
 # 🌐 Connect With Me
 
-<p>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
-
-# 👀 Visitor Count
-
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </p>
 
@@ -197,6 +111,14 @@ Python Chess Game developed with Pygame including AI opponent.
 
 <p align="center">
 
-### ⭐ "Keep Learning, Keep Building, Keep Growing."
+[![](https://komarev.com/ghpvc/?username=Shaun07a&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</p>
+
+---
+
+<p align="center">
+
+<b>⭐ Thanks for visiting my profile! ⭐</b>
 
 </p>
