@@ -101,7 +101,7 @@
 
 <p align="center">
 
-<a href="https://https://www.linkedin.com/in/shaun-joseph-526400280//[YOUR-LINKEDIN-USERNAME]/" target="_blank">
+<a href="https://https://www.linkedin.com/in/shaun-joseph-526400280//" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
