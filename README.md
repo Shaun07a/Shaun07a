@@ -100,25 +100,19 @@
 # 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/shaun-joseph-526400280/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/shaun-joseph-526400280/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-
-[![](https://komarev.com/ghpvc/?username=Shaun07a&icon=0&color=0)](https://visitcount.itsvg.in)
-
+  <img src="https://komarev.com/ghpvc/?username=Shaun07a&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
 
 <p align="center">
-
-<b>⭐ Thanks for visiting my profile! ⭐</b>
-
+  <b>⭐ Thanks for visiting my profile! ⭐</b>
 </p>
