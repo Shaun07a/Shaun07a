@@ -60,10 +60,10 @@
 ## 🛠 Developer Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,terraform,aws"/>
 </p>
 
-**Git • GitHub • VS Code • Jupyter Notebook • Excel**
+**Git • GitHub • VS Code • Docker • Terraform • AWS • Jupyter Notebook • Excel**
 
 ---
 
